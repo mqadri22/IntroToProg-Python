@@ -1,0 +1,5 @@
+homework,high
+cook dinner,medium
+laundry,low
+apply to jobs,low
+clean gutters,high
